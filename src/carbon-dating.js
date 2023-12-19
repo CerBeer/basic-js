@@ -32,6 +32,8 @@ module.exports = {
   dateSample
 };
 
+return;
+
 function assert_equal(answer, true_answer) {
   console.log(`is ${answer === true_answer} ${answer} = ${true_answer}`);
 }

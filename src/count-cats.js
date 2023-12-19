@@ -23,6 +23,8 @@ module.exports = {
   countCats
 };
 
+return;
+
 function assert_equal(answer, true_answer) {
   console.log(answer, answer === true_answer);
 }
